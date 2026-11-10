@@ -71,7 +71,7 @@ A lightweight, custom **WebSockets-based TypeScript library** for interacting wi
 
 ## Installation
 
-Install from npm (once you have published it):
+Install from npm:
 
 ```bash
 npm install bread-baileys
